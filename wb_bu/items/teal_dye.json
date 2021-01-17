@@ -1,0 +1,23 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "inh:wini__win95__teal_dye",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:max_stack_size": 64,
+			"minecraft:hand_equipped": false,
+			"minecraft:icon": {
+				"texture": "teal_dye"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.dye"
+			},
+            "minecraft:display_name": {
+                "value": "item.inh:wini__win95__teal_dye.name"
+            }
+		}
+	}
+}

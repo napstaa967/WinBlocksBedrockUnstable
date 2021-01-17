@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "inh:winr__win95__background"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "TTT",
+      "TST",
+      "TTT"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:stone"
+      },
+      "T": {
+        "item": "inh:wini__win95__teal_dye"
+      }
+    },
+    "result": {
+      "item": "inh:winb__win95__background"
+    }
+  }
+  
+}

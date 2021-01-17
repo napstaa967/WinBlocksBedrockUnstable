@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Twitter: @i_nh_ | Discord: INH!#7589",
+    "name": "Windows Blocks DATA",
+    "uuid": "5508c749-af23-400a-842f-3a2977e074e7",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "description": "test",
+      "type": "data",
+      "uuid": "f67534f3-59bf-4761-8a18-2ab95285b05b",
+      "version": [ 1, 0, 0 ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "0359368a-d49b-416a-b5ca-a6a8e22ca4be",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}

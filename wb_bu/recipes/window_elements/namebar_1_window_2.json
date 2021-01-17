@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "inh:winr__win95__namebar_window_2"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "TTT",
+      "TST",
+      "TTT"
+    ],
+    "key": {
+      "S": {
+        "item": "inh:winb__win95__window_2"
+      },
+      "T": {
+        "item": "minecraft:blue_dye"
+      }
+    },
+    "result": {
+      "item": "inh:winb__win95__namebar"
+    }
+  }
+  
+}
