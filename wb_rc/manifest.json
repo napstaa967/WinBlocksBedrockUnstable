@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Twitter: @i_nh_ | Discord: INH!#7589",
+    "name": "Windows Blocks RESO",
+    "uuid": "0359368a-d49b-416a-b5ca-a6a8e22ca4be",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "description": "test",
+      "type": "resources",
+      "uuid": "37f6d6be-d873-4ee4-aea1-1ea1b328186a",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}

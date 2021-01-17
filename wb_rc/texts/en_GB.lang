@@ -1,0 +1,49 @@
+tile.inh:winb__win95__background.name=Windows 95 Background
+tile.inh:winb__win95__close.name=Windows 95 Close Button
+tile.inh:winb__win95__folder.name=Windows 95 Folder
+tile.inh:winb__win95__maximize.name=Windows 95 Maximize Button
+tile.inh:winb__win95__minimize.name=Windows 95 Minimize Button
+tile.inh:winb__win95__namebar.name=Windows 95 Name Bar
+tile.inh:winb__win95__program.name=Windows 95 Program
+tile.inh:winb__win95__scrollbar.name=Windows 95 Scrollbar
+tile.inh:winb__win95__scrollbar_bottom.name=Windows 95 Scrollbar Bottom
+tile.inh:winb__win95__scrollbar_down.name=Windows 95 Scrollbar Down Button
+tile.inh:winb__win95__scrollbar_empty.name=Windows 95 Scrollbar Empty
+tile.inh:winb__win95__scrollbar_middle.name=Windows 95 Scrollbar Middle
+tile.inh:winb__win95__scrollbar_top.name=Windows 95 Scrollbar Top
+tile.inh:winb__win95__scrollbar_up.name=Windows 95 Scrollbar Up Button
+tile.inh:winb__win95__file.name=Windows 95 File
+tile.inh:winb__win95__window.name=Windows 95 Window
+tile.inh:winb__win95__hlp.name=Windows 95 Help File
+tile.inh:winb__win95__reset.name=Windows 95 Reset Button
+tile.inh:winb__win95__dll.name=Windows 95 Dynamic Link Library File
+tile.inh:winb__win95__grp.name=Windows 95 GRP File
+tile.inh:winb__win95__ini.name=Windows 95 Configuration File
+tile.inh:winb__win95__bmp.name=Windows 95 Bitmap File
+tile.inh:winb__win95__txt.name=Windows 95 Text File
+tile.inh:winb__win95__bat.name=Windows 95 Batch File
+tile.inh:winb__win95__pbk.name=Windows 95 PhoneBook File
+tile.inh:winb__win95__checkmark.name=Windows 95 Checkmark
+tile.inh:winb__win95__checkmark_checked.name=Windows 95 Checkmark Checked
+tile.inh:winb__win95__cd.name=Windows 95 CD
+tile.inh:winb__win95__floppy.name=Windows 95 Floppy
+tile.inh:winb__win95__drive.name=Windows 95 Drive
+tile.inh:winb__win95__taskbar.name=Windows 95 Taskbar
+tile.inh:winb__win95__start_button_1.name=Windows 95 Start Button 1
+tile.inh:winb__win95__start_button_2.name=Windows 95 Start Button 2
+tile.inh:winb__win95__window_2.name=Windows 95 Window Grey
+tile.inh:winb__win95__information.name=Windows 95 Information Button
+tile.inh:winb__win95__namebar_inactive.name=Windows 95 Namebar Inactive
+tile.inh:winb__win95__scrollbar_side_r.name=Windows 95 Scrollbar Side Right
+tile.inh:winb__win95__scrollbar_horizontal.name=Windows 95 Scrollbar Horizontal
+tile.inh:winb__win95__scrollbar_side_l.name=Windows 95 Scrollbar Side Left
+tile.inh:winb__win95__scrollbar_right.name=Windows 95 Scrollbar Right Button
+tile.inh:winb__win95__scrollbar_left.name=Windows 95 Scrollbar Left Button
+tile.inh:winb__win95__idf.name=Windows 95 IDF File
+
+
+item.inh:wini__win95__teal_dye.name=Teal Dye
+
+
+pack.name=Windows 95 Blocks RC
+pack.description=Windows Blocks for builds | Contact @i_nh_ on twitter for help

@@ -1,0 +1,171 @@
+{
+	"format_version": [1, 1, 0],
+	"inh:winb__win95__background": {
+		"textures": "win95_background",
+		"sound": "stone"
+	},
+	"inh:winb__win95__folder": {
+		"textures": "win95_folder",
+		"sound": "stone"
+	},
+	"inh:winb__win95__maximize": {
+		"textures": "win95_maximize",
+		"sound": "stone"
+	},
+	"inh:winb__win95__minimize": {
+		"textures": "win95_minimize",
+		"sound": "stone"
+	},
+	"inh:winb__win95__namebar": {
+		"textures": "win95_namebar",
+		"sound": "stone"
+	},
+	"inh:winb__win95__program": {
+		"textures": "win95_program",
+		"sound": "stone"
+	},
+	"inh:winb__win95__scrollbar": {
+		"textures": "win95_scrollbar",
+		"sound": "stone"
+	},
+	"inh:winb__win95__scrollbar_bottom": {
+		"textures": "win95_scrollbar_bottom",
+		"sound": "stone"
+	},
+	"inh:winb__win95__scrollbar_down": {
+		"textures": "win95_scrollbar_down",
+		"sound": "stone"
+	},
+	"inh:winb__win95__scrollbar_empty": {
+		"textures": "win95_scrollbar_empty",
+		"sound": "stone"
+	},
+	"inh:winb__win95__scrollbar_middle": {
+		"textures": "win95_scrollbar_middle",
+		"sound": "stone"
+	},
+	"inh:winb__win95__scrollbar_top": {
+		"textures": "win95_scrollbar_top",
+		"sound": "stone"
+	},
+	"inh:winb__win95__scrollbar_up": {
+		"textures": "win95_scrollbar_up",
+		"sound": "stone"
+	},
+	"inh:winb__win95__file": {
+		"textures": "win95_file",
+		"sound": "stone"
+	},
+	"inh:winb__win95__window": {
+		"textures": "win95_window",
+		"sound": "stone"
+	},
+	"inh:winb__win95__close": {
+		"textures": "win95_close",
+		"sound": "stone"
+	},
+	"inh:winb__win95__hlp": {
+		"textures": "win95_hlp",
+		"sound": "stone"
+	},
+	"inh:winb__win95__reset": {
+		"textures": "win95_reset",
+		"sound": "stone"
+	},
+	"inh:winb__win95__dll": {
+		"textures": "win95_dll",
+		"sound": "stone"
+	},
+	"inh:winb__win95__grp": {
+		"textures": "win95_grp",
+		"sound": "stone"
+	},
+	"inh:winb__win95__ini": {
+		"textures": "win95_ini",
+		"sound": "stone"
+	},
+	"inh:winb__win95__bmp": {
+		"textures": "win95_bmp",
+		"sound": "stone"
+	},
+	"inh:winb__win95__txt": {
+		"textures": "win95_txt",
+		"sound": "stone"
+	},
+	"inh:winb__win95__bat": {
+		"textures": "win95_bat",
+		"sound": "stone"
+	},
+	"inh:winb__win95__pbk": {
+		"textures": "win95_pbk",
+		"sound": "stone"
+	},
+	"inh:winb__win95__checkmark": {
+		"textures": "win95_checkmark",
+		"sound": "stone"
+	},
+	"inh:winb__win95__checkmark_checked": {
+		"textures": "win95_checkmark_checked",
+		"sound": "stone"
+	},
+	"inh:winb__win95__cd": {
+		"textures": "win95_cd",
+		"sound": "stone"
+	},
+	"inh:winb__win95__floppy": {
+		"textures": "win95_floppy",
+		"sound": "stone"
+	},
+	"inh:winb__win95__drive": {
+		"textures": "win95_drive",
+		"sound": "stone"
+	},
+	"inh:winb__win95__taskbar": {
+		"textures": "win95_taskbar",
+		"sound": "stone"
+	},
+	"inh:winb__win95__start_button_1": {
+		"textures": "win95_start_button_1",
+		"sound": "stone"
+	},
+	"inh:winb__win95__start_button_2": {
+		"textures": "win95_start_button_2",
+		"sound": "stone"
+	},
+	"inh:winb__win95__window_2": {
+		"textures": "win95_window_2",
+		"sound": "stone"
+	},
+	"inh:winb__win95__information": {
+		"textures": "win95_information",
+		"sound": "stone"
+	},
+	"inh:winb__win95__namebar_inactive": {
+		"textures": "win95_namebar_inactive",
+		"sound": "stone"
+	},
+	"inh:winb__win95__scrollbar_side_r": {
+		"textures": "win95_scrollbar_side_r",
+		"sound": "stone"
+	},
+	"inh:winb__win95__scrollbar_horizontal": {
+		"textures": "win95_scrollbar_horizontal_middle",
+		"sound": "stone"
+	},
+	"inh:winb__win95__scrollbar_side_l": {
+		"textures": "win95_scrollbar_side_l",
+		"sound": "stone"
+	},
+	"inh:winb__win95__scrollbar_right": {
+		"textures": "win95_scrollbar_right",
+		"sound": "stone"
+	},
+	"inh:winb__win95__scrollbar_left": {
+		"textures": "win95_scrollbar_left",
+		"sound": "stone"
+	},
+	"inh:winb__win95__idf": {
+		"textures": "win95_idf",
+		"sound": "stone"
+	}
+}

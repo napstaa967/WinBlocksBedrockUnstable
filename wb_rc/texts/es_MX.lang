@@ -1,0 +1,61 @@
+tile.inh:winb__win95__background.name=Fondo De Windows 95
+tile.inh:winb__win95__close.name=Boton De Cerrar De Windows 95
+tile.inh:winb__win95__folder.name=Carpeta De Windows 95
+tile.inh:winb__win95__maximize.name=Boton De Maximizar De Windows 95
+tile.inh:winb__win95__minimize.name=Boton De Minimizar De Windows 95
+tile.inh:winb__win95__namebar.name=Barra De Ventana De Windows 95
+tile.inh:winb__win95__program.name=Programa De Windows 95
+tile.inh:winb__win95__scrollbar.name=Barra De Scroll De Windows 95
+tile.inh:winb__win95__scrollbar_bottom.name=Barra De Scroll De Windows 95 (Grande, Fondo)
+tile.inh:winb__win95__scrollbar_down.name=Boton De Bajar De Barra De Scroll De Windows 95
+tile.inh:winb__win95__scrollbar_empty.name=Espacio Vacio De Barra De Scroll De Windows 95
+tile.inh:winb__win95__scrollbar_middle.name=Barra De Scroll De Windows 95 (Grande, Medio Horizontal)
+tile.inh:winb__win95__scrollbar_top.name=Barra De Scroll De Windows 95 (Grande, Tope)
+tile.inh:winb__win95__scrollbar_up.name=Boton De Subir De Barra De Scroll De Windows 95
+tile.inh:winb__win95__file.name=Archivo De Windows 95
+tile.inh:winb__win95__window.name=Ventana De Windows 95
+tile.inh:winb__win95__hlp.name=Archivo De Ayuda De Windows 95
+tile.inh:winb__win95__reset.name=Boton De Restaurar De Windows 95
+tile.inh:winb__win95__dll.name=Archivo De Biblioteca De Vínculos Dinámicos (DLL) De Windows 95
+tile.inh:winb__win95__grp.name=Archivo GRP De Windows 95
+tile.inh:winb__win95__ini.name=Archivo De Configuracion (INI) De Windows 95
+tile.inh:winb__win95__bmp.name=Imagen Bitmap (BMP) De Windows 95
+tile.inh:winb__win95__txt.name=Archivo De Texto (TXT) De Windows 95
+tile.inh:winb__win95__bat.name=Archivo Batch (BAT) De Windows 95
+tile.inh:winb__win95__pbk.name=Archivo De Guia Telefonica (PBK) De Windows 95
+tile.inh:winb__win95__checkmark.name=Casilla De Windows 95
+tile.inh:winb__win95__checkmark_checked.name=Casilla Marcada De Windows 95
+tile.inh:winb__win95__cd.name=CD De Windows 95
+tile.inh:winb__win95__floppy.name=Floppy De Windows 95
+tile.inh:winb__win95__drive.name=Disco Duro De Windows 95
+tile.inh:winb__win95__taskbar.name=Barra De Tareas De Windows 95
+tile.inh:winb__win95__start_button_1.name=Boton De Inicio De Windows 95 (Parte 1)
+tile.inh:winb__win95__start_button_2.name=Boton De Inicio De Windows 95 (Parte 2)
+tile.inh:winb__win95__window_2.name=Ventana De Windows 95 (Gris)
+tile.inh:winb__win95__information.name=Boton De Informacion De Windows 95
+tile.inh:winb__win95__namebar_inactive.name=Barra De Ventana De Windows 95 Inactiva
+tile.inh:winb__win95__scrollbar_side_r.name=Barra De Scroll De Windows 95 (Grande, Derecha)
+tile.inh:winb__win95__scrollbar_horizontal.name=Barra De Scroll De Windows 95 (Grande, Medio Vertical)
+tile.inh:winb__win95__scrollbar_side_l.name=Barra De Scroll De Windows 95 (Grande, Izquierda)
+tile.inh:winb__win95__scrollbar_right.name=Boton De Derecha De Barra De Scroll De Windows 95
+tile.inh:winb__win95__scrollbar_left.name=Boton De Izquierda De Barra De Scroll De Windows 95
+tile.inh:winb__win95__idf.name=Archivo IDF De Windows 95
+
+
+item.inh:wini__win95__teal_dye.name=Tintura Verde-Azul
+
+
+pack.name=Bloques De Windows 95 RS
+pack.description=Bloques de Windows para construir | Contacta a @i_nh_ en twitter si tienes problemas
+
+
+
+
+
+
+
+
+
+
+
+

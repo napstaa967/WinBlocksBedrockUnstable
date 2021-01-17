@@ -1,0 +1,215 @@
+{
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"win95_background": {
+			"textures": ["textures/blocks/win95/background"]
+		},
+
+
+		"win95_folder": {
+			"textures": ["textures/blocks/win95/folder"]
+		},
+
+
+		"win95_maximize": {
+			"textures": ["textures/blocks/win95/maximize"]
+		},
+
+
+		"win95_minimize": {
+			"textures": ["textures/blocks/win95/minimize"]
+		},
+
+		"win95_namebar": {
+			"textures": ["textures/blocks/win95/namebar"]
+		},
+
+
+		"win95_program": {
+			"textures": ["textures/blocks/win95/program"]
+		},
+
+
+		"win95_scrollbar": {
+			"textures": ["textures/blocks/win95/scrollbar"]
+		},
+
+
+		"win95_scrollbar_bottom": {
+			"textures": ["textures/blocks/win95/scrollbar_bottom"]
+		},
+
+
+		"win95_scrollbar_down": {
+			"textures": ["textures/blocks/win95/scrollbar_down"]
+		},
+
+
+		"win95_scrollbar_empty": {
+			"textures": ["textures/blocks/win95/scrollbar_empty"]
+		},
+
+
+		"win95_scrollbar_middle": {
+			"textures": ["textures/blocks/win95/scrollbar_middle"]
+		},
+
+
+		"win95_scrollbar_top": {
+			"textures": ["textures/blocks/win95/scrollbar_top"]
+		},
+
+
+		"win95_scrollbar_up": {
+			"textures": ["textures/blocks/win95/scrollbar_up"]
+		},
+
+
+		"win95_file": {
+			"textures": ["textures/blocks/win95/file"]
+		},
+
+
+		"win95_window": {
+			"textures": ["textures/blocks/win95/window"]
+		},
+
+
+		"win95_close": {
+			"textures": ["textures/blocks/win95/close"]
+		},
+
+
+		"win95_hlp": {
+			"textures": ["textures/blocks/win95/hlp"]
+		},
+
+
+		"win95_reset": {
+			"textures": ["textures/blocks/win95/reset"]
+		},
+
+
+		"win95_dll": {
+			"textures": ["textures/blocks/win95/dll"]
+		},
+
+
+		"win95_grp": {
+			"textures": ["textures/blocks/win95/grp"]
+		},
+
+
+		"win95_ini": {
+			"textures": ["textures/blocks/win95/ini"]
+		},
+
+
+		"win95_bmp": {
+			"textures": ["textures/blocks/win95/bmp"]
+		},
+
+
+		"win95_txt": {
+			"textures": ["textures/blocks/win95/txt"]
+		},
+
+
+		"win95_bat": {
+			"textures": ["textures/blocks/win95/bat"]
+		},
+
+
+		"win95_pbk": {
+			"textures": ["textures/blocks/win95/pbk"]
+		},
+
+
+		"win95_checkmark": {
+			"textures": ["textures/blocks/win95/checkmark"]
+		},
+
+
+		"win95_checkmark_checked": {
+			"textures": ["textures/blocks/win95/checkmark_checked"]
+		},
+
+
+		"win95_cd": {
+			"textures": ["textures/blocks/win95/cd"]
+		},
+
+
+		"win95_floppy": {
+			"textures": ["textures/blocks/win95/floppy"]
+		},
+
+
+		"win95_drive": {
+			"textures": ["textures/blocks/win95/drive"]
+		},
+
+
+		"win95_taskbar": {
+			"textures": ["textures/blocks/win95/taskbar"]
+		},
+
+
+		"win95_start_button_1": {
+			"textures": ["textures/blocks/win95/start_button_1"]
+		},
+
+
+		"win95_start_button_2": {
+			"textures": ["textures/blocks/win95/start_button_2"]
+		},
+
+
+		"win95_window_2": {
+			"textures": ["textures/blocks/win95/window_2"]
+		},
+
+
+		"win95_information": {
+			"textures": ["textures/blocks/win95/information"]
+		},
+
+
+		"win95_namebar_inactive": {
+			"textures": ["textures/blocks/win95/namebar_inactive"]
+		},
+
+
+		"win95_scrollbar_side_r": {
+			"textures": ["textures/blocks/win95/scrollbar_side_r"]
+		},
+
+
+		"win95_scrollbar_horizontal_middle": {
+			"textures": ["textures/blocks/win95/scrollbar_horizontal_middle"]
+		},
+
+
+		"win95_scrollbar_side_l": {
+			"textures": ["textures/blocks/win95/scrollbar_side_l"]
+		},
+
+
+		"win95_scrollbar_right": {
+			"textures": ["textures/blocks/win95/scrollbar_right"]
+		},
+
+
+		"win95_scrollbar_left": {
+			"textures": ["textures/blocks/win95/scrollbar_left"]
+		},
+
+
+		"win95_idf": {
+			"textures": ["textures/blocks/win95/idf"]
+		}
+	}
+}
