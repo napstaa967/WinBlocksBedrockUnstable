@@ -20,7 +20,7 @@ tile.inh:winb__win95__dll.name=Windows 95 Dynamic Link Library File
 tile.inh:winb__win95__grp.name=Windows 95 GRP File
 tile.inh:winb__win95__ini.name=Windows 95 Configuration File
 tile.inh:winb__win95__bmp.name=Windows 95 Bitmap File
-tile.inh:winb__win95__txt.name=Windows 95 Text File
+tile.inh:winb__win95__txt.name=Windows 95Text File
 tile.inh:winb__win95__bat.name=Windows 95 Batch File
 tile.inh:winb__win95__pbk.name=Windows 95 PhoneBook File
 tile.inh:winb__win95__checkmark.name=Windows 95 Checkmark
@@ -41,6 +41,8 @@ tile.inh:winb__win95__scrollbar_right.name=Windows 95 Scrollbar Right Button
 tile.inh:winb__win95__scrollbar_left.name=Windows 95 Scrollbar Left Button
 tile.inh:winb__win95__idf.name=Windows 95 IDF File
 
+tile.inh:winb__win95_teal_flower.name=...
+item.inh:wini__win95__teal_flower.name=Teal Flower
 
 item.inh:wini__win95__teal_dye.name=Teal Dye
 

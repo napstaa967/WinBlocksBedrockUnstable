@@ -40,9 +40,11 @@ tile.inh:winb__win95__scrollbar_side_l.name=Barra De Scroll De Windows 95 (Grand
 tile.inh:winb__win95__scrollbar_right.name=Boton De Derecha De Barra De Scroll De Windows 95
 tile.inh:winb__win95__scrollbar_left.name=Boton De Izquierda De Barra De Scroll De Windows 95
 tile.inh:winb__win95__idf.name=Archivo IDF De Windows 95
+tile.inh:winb__win95_teal_flower.name=...
 
 
 item.inh:wini__win95__teal_dye.name=Tintura Verde-Azul
+item.inh:wini__win95__teal_flower.name=Flor Verde-Azul
 
 
 pack.name=Bloques De Windows 95 RS
