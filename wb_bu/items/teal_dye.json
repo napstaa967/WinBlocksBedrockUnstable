@@ -16,7 +16,7 @@
 				"parent": "itemGroup.name.dye"
 			},
             "minecraft:display_name": {
-                "value": "item.inh:wini__win95__teal_dye.name"
+                "value": "Teal Dye"
             }
 		}
 	}

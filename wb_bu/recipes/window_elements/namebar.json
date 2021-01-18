@@ -2,7 +2,7 @@
   "format_version": "1.12",
   "minecraft:recipe_shaped": {
     "description": {
-    "identifier": "inh:winr__win95__namebar"
+    "identifier": "inh_winblocks:recipe_namebar"
     },
 
     "tags": [ "crafting_table" ],
@@ -13,14 +13,14 @@
     ],
     "key": {
       "S": {
-        "item": "inh:winb__win95__window"
+        "item": "inh_winblocks:w95_window"
       },
       "T": {
         "item": "minecraft:blue_dye"
       }
     },
     "result": {
-      "item": "inh:winb__win95__namebar"
+      "item": "inh_winblocks:w95_namebar"
     }
   }
   

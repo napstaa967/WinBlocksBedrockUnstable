@@ -2,7 +2,7 @@
   "format_version": "1.12",
   "minecraft:recipe_shaped": {
     "description": {
-    "identifier": "inh:winr__win95__background"
+    "identifier": "inh_winblocks:w95_background"
     },
 
     "tags": [ "crafting_table" ],
@@ -16,11 +16,11 @@
         "item": "minecraft:stone"
       },
       "T": {
-        "item": "inh:wini__win95__teal_dye"
+        "item": "inh_winblocks:teal_dye"
       }
     },
     "result": {
-      "item": "inh:winb__win95__background"
+      "item": "inh_winblocks:w95_background"
     }
   }
   

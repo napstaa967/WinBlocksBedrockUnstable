@@ -2,7 +2,7 @@
   "format_version": "1.12",
   "minecraft:recipe_shapeless": {
     "description": {
-    "identifier": "inh:wini__win95__teal_dye_from_dyes_1"
+    "identifier": "inh_winblocks:teal_dye_from_dyes_1"
     },
 
     
@@ -22,7 +22,7 @@
       }
     ],
     "result": {
-      "item": "inh:wini__win95__teal_dye"
+      "item": "inh_winblocks:teal_dye"
     }
   }
 }
